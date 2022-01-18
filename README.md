@@ -1,4 +1,5 @@
-### Hi there 👋
+### Name: Miae Yoon
+### Section: NAA
 
 <!--
 **myoon9/myoon9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
